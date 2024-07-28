@@ -1,4 +1,4 @@
-Sure! Here is a sample README file for your project:
+
 
 ```markdown
 # Notes Application
